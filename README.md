@@ -1,29 +1,34 @@
-# Hola, soy Johan 👋
+# Johan Morales Pinzón
 
-Desarrollador de software. Me interesa construir apps que funcionen **sin
-depender de la nube**: móvil, voz e IA local.
+Ingeniero de software senior, Bogotá (Colombia). Seis años construyendo
+sistemas en .NET y Angular, y automatización con IA que ya está en producción:
+voz, NLP y procesamiento de documentos.
 
-- 🔭 Trabajando en [SentraVox](https://github.com/johansmp/sentravox): agente de
-  voz offline para filtrar llamadas entrantes en Android.
-- 🧰 Flutter · Dart · Kotlin · Python · TypeScript
-- 📫 johansmoralesp@gmail.com
+- Portafolio: <https://johansmp.github.io/portafolio/>
+- LinkedIn: <https://www.linkedin.com/in/johansmoralesp/>
+- Correo: johansmoralesp@gmail.com
 
-## Proyectos
+## En qué estoy trabajando
 
 | Proyecto | Qué es |
 |---|---|
-| [SentraVox](https://github.com/johansmp/sentravox) | Agente de llamadas offline con STT, voz neuronal Piper y LLM local (Flutter/Android). |
-| [portafolio](https://github.com/johansmp/portafolio) | Portafolio personal (TypeScript). |
+| [JSMP](https://github.com/johansmp/Jsmp) | Motor de almacenamiento versionado y direccionado por contenido para JSON: columnar, deduplicación por contenido, commits atómicos y consultas que solo leen lo necesario. Publicado como paquete [`Jsmp`](https://www.nuget.org/packages/Jsmp) en NuGet. |
+| [SentraVox](https://github.com/johansmp/sentravox) | Agente de voz offline para Android: contesta llamadas, clasifica el riesgo, responde con voz neuronal Piper y reformula con un LLM local. |
+| [portafolio](https://github.com/johansmp/portafolio) | Mi portafolio personal. |
 
-## Tecnologías
+## Con qué trabajo
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+.NET · C# · ASP.NET Core · Angular · TypeScript · Java · Python · SQL Server ·
+PostgreSQL · Azure (App Service, Blob Storage, DevOps) · Flutter · Android
 
-## Estadísticas
+## Trayectoria
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=johansmp&show_icons=true&hide_title=true&hide_rank=true)
+**NEXA BPO** — Ingeniero de Desarrollo de Software Senior (2020 – 2026)
+Arquitectura, Web APIs con .NET Core y Angular, soluciones de IA (bots, voz,
+IDP) y administración de Azure y SQL Server.
+
+**Zyos S.A.S** — Desarrollador Semi Senior (2019 – 2020)
+Aplicaciones Java con PostgreSQL, optimización de procesos contables.
+
+**Fundación Hematológica Colombia** — Asistente de Desarrollo (2019 – 2020)
+Aplicaciones internas con PHP, JavaScript y PostgreSQL.
